@@ -1,2 +1,1 @@
-# ML_Project3
-Predicted Salary of Employee
+Employee Salary Prediction
